@@ -71,7 +71,7 @@ export default function Portfolio() {
         <h2 className="text-3xl font-bold mb-8 text-center text-green-400">Get in Touch</h2>
         <div className="flex justify-center gap-6">
           <Link
-            href="https://github.com/justdemo23"
+            href="https://github.com/DemetrioReyes"
             target="_blank"
             rel="noopener noreferrer"
             className="transform hover:scale-110 transition-transform duration-200"
