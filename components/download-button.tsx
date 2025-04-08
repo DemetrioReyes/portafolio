@@ -75,81 +75,88 @@ export function DownloadButton() {
   const handleDownload = () => {
     // Create a blob with your resume content
     const resumeContent = `
-Demetrio Reyes Martinez
-Full Stack Developer
-
+DEMETRIO REYES MARTINEZ
+Full Stack Developer | Python | NodeJs | Back-end | Front-End | ML/DL
+Rdemetrio72@yahool.com / Teléfono: +18094059011 / Santo Domingo, República
+Dominicana / Perfil de Linkedin
+_______________________________________________________________________________________________
 PROFESSIONAL SUMMARY
-Full Stack Developer con más de 8 años de experiencia en diseño y automatización de sistemas utilizando Python, Flask, Selenium, MySQL y JavaScript. Especializado en optimización de procesos, análisis de datos y colaboración en equipo para mejorar la productividad y reducir costos operativos. Formado en desarrollo web y hacking ético, con nivel intermedio de inglés.
-
-EXPERIENCIA LABORAL
+_______________________________________________________________________________________________
+Software Engineer, AI, and Data Analytics professional with over 8 years of experience. Advanced
+knowledge in developing intelligent systems, web scraping, process automation, and building
+pipelines for ML/DL. Notable experience in Python, REST APIs, Selenium, Requests, Node.js, and PHP.
+Advanced expertise in SQL/NoSQL databases, cloud deployment, and process optimization through
+technology and data analysis. Skilled in generating reports and management indicators.
+_______________________________________________________________________________________________
+WORK EXPERIENCE
+_______________________________________________________________________________________________
 Rank Upper
-Full Stack Developer | Abril 2019 – Mayo 2024
-- Diseño y desarrollo de software de automatización para marketing, integrando inteligencia artificial y machine learning
-- Implementación de módulos para generación automatizada de gráficos y planificación estratégica
-- Desarrollo con Python, Flask, Selenium, MySQL, HTML, CSS y JavaScript (Express, Playwright)
-- Desarrollo de sistema automatizado para campañas de telemarketing utilizando Asterisk
+_______________________________________________________________________________________________
+Backend Developer | April 2019 – May 2024
+- Designed and developed automation software for marketing, integrating
+artificial intelligence and machine learning. The system replaces human
+community managers by managing posts on platforms like Instagram through
+web scraping, algorithm analysis, and automated content execution.
+- Implemented modules enabling automated generation of graphs, strategic
+planning of posts, and automated connection to Instagram accounts using
+Selenium. Designed an electronic approval model for clients to ensure post
+accuracy and optimize interaction with Instagram's algorithm.
+- Used tools like Python, Flask, Selenium, MySQL, HTML, CSS, and JavaScript
+(Express, Playwright) to create a scalable and efficient system.
+- Developed an automated system for telemarketing campaigns during
+presidential elections, utilizing Asterisk for phone trunks and IVR, achieving
+massive outreach to the population with surveys and personalized calls.
 
-Logros Destacados:
-- Reducción del margen de error en proyecciones de interacción en un 2%
-- Migración exitosa del software de beta a producción en 4 fases
-
+Key Achievements:
+- Reduced the margin of error in interaction projections by 2%.
+- Successfully migrated the software from beta to production in 4 phases, meeting all
+established deadlines.
 Freelance Developer
-Enero 2018 – Abril 2019
-- Entrega de soluciones IT a clientes individuales y empresas en Fiverr
-
+January 2018 – April 2019
+- Delivered various IT solutions to individual clients and companies, on Fiverr
+_______________________________________________________________________________________________
 Grupo Ramos
-Analista de Transporte | Diciembre 2014 – Diciembre 2017
-- Monitoreo de indicadores de almacenamiento, transporte y procesos de adquisición
-- Análisis de datos operativos y optimización de recursos
-
+_______________________________________________________________________________________________
+Transportation Analyst | December 2014 – December 2017
+- Monitored performance indicators for storage, transportation, and procurement
+processes to identify improvement areas, optimize resources, and ensure
+strategic objectives of the distribution center were met.
+- Analyzed operational data related to costs, transportation, and workflows to
+design strategies maximizing the efficient use of space, equipment, and
+personnel.
+- Collaborated with key departments such as Imports, Inventory Control, and
+Operations Planning to monitor indicators, ensure operational efficiency, and
+meet company standards.
+_______________________________________________________________________________________________
 Philip Morris International
-IT Assistance Specialist | Diciembre 2012 – Diciembre 2014
-- Soporte técnico IT y resolución de problemas
-
-EDUCACIÓN
-- Desarrollador Full Stack Junior – Alterna Academy (2024)
+_______________________________________________________________________________________________
+IT Assistance Specialist | December 2012 – December 2014
+- Provided basic IT support, troubleshooting technical issues, assisting users with
+hardware and software problems, and ensuring smooth daily operations of IT
+systems.
+_______________________________________________________________________________________________
+EDUCATION
+_______________________________________________________________________________________________
+- Junior Full Stack Developer – Alterna Academy (2024)
 - NodeJS – Udemy (2024)
 - Python – Udemy (2023)
-- Desarrollo Web – Udemy (2021)
+- Web Development API REST– Udemy (2021)
 - Asterisk – Udemy (2018)
-- Hacking Ético – Udemy (2018)
+- Ethical Hacking – Udemy (2018)
 - Metasploit Hacking – Udemy (2018)
 - Pentesting – Udemy (2017)
 - Sqlmap – Udemy (2017)
-
-HABILIDADES
-Backend Development:
-- Python
-- Flask
-- Selenium
-- MySQL
-- JavaScript
-- Express
-- Playwright
-- Asterisk
-
-Herramientas y Prácticas:
-- Git
-- Docker
-- Automatización
-- Análisis de Datos
-- Hacking Ético
-
-Habilidades Blandas:
-- Resiliencia
-- Pensamiento crítico
-- Liderazgo
-- Motivación
-- Habilidades sociales
-
-IDIOMAS
-Inglés Intermedio
-
-CONTACTO
-Email: djdemomeka@gmail.com
-Teléfono: +1809465911
-Ubicación: Santo Domingo, República Dominicana
-LinkedIn: Perfil de LinkedIn
+- Machine Learning – udemy – Domestika (2021)
+- Data Science – udemy Domestika (2021)
+_______________________________________________________________________________________________
+SKILLS
+_______________________________________________________________________________________________
+Resilience, critical thinking, reasoning, leadership, motivation, and social skills.
+_______________________________________________________________________________________________
+LANGUAGES
+_______________________________________________________________________________________________
+Intermediate English
+_______________________________________________________________________________________________
 `
 
     try {
