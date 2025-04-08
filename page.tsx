@@ -28,7 +28,7 @@ export default function Portfolio() {
             <TypingEffect text="Full Stack Developer" />
           </div>
           <p className="text-xl text-gray-400 max-w-2xl mb-8">
-            Passionate about building exceptional digital experiences
+            Full Stack Developer | Python | NodeJs | Back-end | Front-End | ML/DL
           </p>
           <DownloadButton />
         </motion.div>
@@ -46,9 +46,11 @@ export default function Portfolio() {
           <CardContent className="p-6">
             <h2 className="text-3xl font-bold mb-6 text-green-400">About Me</h2>
             <p className="text-gray-300 leading-relaxed">
-              With over 8 years of experience in software development, I specialize in building scalable web applications 
-              with a focus on backend development using modern technologies. I am passionate about clean code and solving 
-              complex problems through innovative server-side solutions.
+              Software Engineer, AI, and Data Analytics professional with over 8 years of experience. 
+              Advanced knowledge in developing intelligent systems, web scraping, process automation, and building pipelines for ML/DL. 
+              Notable experience in Python, REST APIs, Selenium, Requests, Node.js, and PHP. 
+              Advanced expertise in SQL/NoSQL databases, cloud deployment, and process optimization through technology and data analysis. 
+              Skilled in generating reports and management indicators.
             </p>
           </CardContent>
         </Card>
